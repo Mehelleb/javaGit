@@ -20,5 +20,9 @@ public FirstClass(int age, String name) {
 	this.age = age;
 	this.name = name;
 }
+@Override
+public String toString() {
+	return "FirstClass [age=" + age + ", name=" + name + "]";
+}
 
 }
