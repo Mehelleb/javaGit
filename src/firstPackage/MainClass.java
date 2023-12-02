@@ -7,6 +7,8 @@ public class MainClass {
 		System.out.println(p1);
 		FirstClass p2 = new FirstClass(33, "Selia");
 		System.out.println(p2);
+		FirstClass p3 = new FirstClass(2, "Aline");
+		System.out.println(p3);
 
 
 	}
