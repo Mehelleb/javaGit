@@ -15,5 +15,10 @@ public String getName() {
 public void setName(String name) {
 	this.name = name;
 }
+public FirstClass(int age, String name) {
+	super();
+	this.age = age;
+	this.name = name;
+}
 
 }
