@@ -22,7 +22,7 @@ public FirstClass(int age, String name) {
 }
 @Override
 public String toString() {
-	return "FirstClass [age=" + age + ", name=" + name + "]";
+	return "Nom: "+this.name+" Age: "+this.age;
 }
 
 }
